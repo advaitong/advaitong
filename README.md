@@ -11,11 +11,11 @@
 
 ## 🕸️ skill stack in web dev:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongo,nodejs,express,tailwind,next,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongo,nodejs,express,tailwind,next)](https://skillicons.dev)
 
 ## 🕹️ skill stack in game dev:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,blender,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,blender)](https://skillicons.dev)
 
 ## 🌐 connect with me!
 <p align="left">
