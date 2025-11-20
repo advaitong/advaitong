@@ -8,7 +8,7 @@
 
 ## skill stack in web dev:
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,react,tailwind,java)](https://skillicons.dev)
 
 ## skill stack in game dev:
 
