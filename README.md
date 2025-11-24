@@ -1,11 +1,11 @@
 <h1 align="center">hi, i am advait!</h1>
 
 ## about me
-- 💻 i’m a **college student**, comfortable with frontend web development and unity game development. 
+- 💻 i’m a **college student**, comfortable with frontend web development and unity game development. i'm currently learning app development with flutter.
 - 🎮 ive been making games with unity as a hobby for 3 years, focusing on gameplay mechanics, scripting, and interactive experiences.  
 - 🧠 i love solving problems with clean, efficient code and designing user-focused experiences — whether in web or game environments.  
 - ⚡ my creative side from game dev helps me build more engaging UIs in web apps.
-
+  
 ## skill stack in web dev:
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,react,tailwind,java)](https://skillicons.dev)
